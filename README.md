@@ -1,6 +1,9 @@
 # qb-mechanic
 esx_mechanic converted to QBCore, nice visual and works 100%
 
+# Credits
+
+To Kakarot#2550 for helping me converting and fixing.
 
 # HOW TO INSTALL
 
